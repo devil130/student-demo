@@ -1,2 +1,3 @@
 # student-demo
-This is first Git Repository.
+This is my first Git Repository.
+Happy to share with you!!!
